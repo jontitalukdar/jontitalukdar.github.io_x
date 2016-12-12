@@ -26,12 +26,12 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   jontitalukdar
+#disqus_shortname:   jontitalukdar
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
+google:
+  plus:            109063222364059782087
   #analytics:
   #verify:
   #ad-client:
