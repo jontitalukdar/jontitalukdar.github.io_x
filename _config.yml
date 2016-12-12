@@ -1,5 +1,5 @@
 # Site
-title:              You me and the Moon
+title:              You Me and the Moon
 bio:                'The incongruous ramblings of an immaculte blogger...'
 description:        "Welcome, to the journey to the center of my mind, a lawless and tumultous place, where long-winded rivers of thought meet, generate and create ideas. A beautiful amalgamation of the meandering rivers into the sea. Chaos is indeed beautiful."
 reading_time:       true
@@ -37,7 +37,7 @@ disqus_shortname:   jontitalukdar
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:               jonti.talukdar.05@gmail.com
+#email:               jonti.talukdar.05@gmail.com
 #twitter:            username
 facebook:           profile.php?id=100006255737607
 github:             jontitalukdar
@@ -51,7 +51,7 @@ linkedin:          jontitalukdar
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-youtube:           channel/UCc0I5IL5qtSY2WdduUxrZUQ
+#youtube:           channel/UCc0I5IL5qtSY2WdduUxrZUQ
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
