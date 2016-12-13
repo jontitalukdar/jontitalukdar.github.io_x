@@ -2,6 +2,7 @@
 layout: page
 title: About me? or You?
 tags: [about, you, feelings]
+feature: https://jontitalukdar.github.io/assets/img/placeholder-big.jpg
 date: 2016-12-13
 comments: false
 ---
