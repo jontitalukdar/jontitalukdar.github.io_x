@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-#disqus_shortname:   jontitalukdar
+disqus_shortname:   jontitalukdar
 
 # Social
 # if you don't have any of social below, comment the line.
