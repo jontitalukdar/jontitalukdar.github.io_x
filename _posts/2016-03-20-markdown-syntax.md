@@ -8,5 +8,11 @@ comments: true
 ---
 ## HTML Elements
 
-Hello . this is center ps akhdkfhdj paratgajfnjdkfdjf jfad/fdjafdfdaf. jhjdhjkdhsfjkahsdfjkdfhj . jfhsdjfkhdfjdfhjfhjdfhdjfdjfdjfdjfdfjdfjdfjdhfjsfhsdjkfsdjkfsfjhfjhsdjfkhasjfhsdjfsdhfjddjsdhfjfjfasdjfhjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfdfueeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeiiiiiiiiiiiiiiiiiiiiiiiirrrrrrrrrrrrrrrrrrrrrrrjjjjjjjjjjjjjjjjjjj.
-{: .center}
+Hello . this is center ps akhdkfhdj paratgajfnjdkfdjf jfad/fdjafdfdaf. jhjdhjkdhsfjkahsdfjkdfhj . jfhsdjfkhdfjdfhjfhjdfhdjfdjfdjfdjfdfjdfjdfjdhfjsfhsdjkfsdjkfsfjhfjhsdjfkhasjfhsdjfsdhfjddjsdhfjfjfasdjfhjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfdfueeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeiiiiiiiiiiiiiiiiiiiiiiiirrrrrrrrrrrrrrrrrrrrrrrjjjjjjjjjjjjjjjjjjj..
+    It is the plugging away
+    adfkfdkf
+    
+    dfkdfjdkfsdkfsdjfsf.
+    dfdfkjsd,
+    dfdsjffjsdfksdfsdfksdf,
+    dsfsdjfsdkfsdf.
