@@ -10,13 +10,13 @@ comments: true
 
 Everyone has problems at some point in their lives. But only a few are really able to get over them and with ease. The fuel which drives them through their problems is **Motivation**. Motivation is defined as *a reason or reasons for acting or behaving in a particular way*. 
 <center>
-    ###The quitter
-    It is the plugging away
-    adfkfdkf dkkd kkd keiw 
-    fjdf dndnf dakakw jjgg
-    djdfdf hjwew dfdjf 
-    dfkdfjdkfsdkfsdjfsf.
-    dfdfkjsd,
+    ## The quitter
+    It is the plugging away,
+    adfkfdkf dkkd kkd keiw ,
+    fjdf dndnf dakakw jjgg,
+    djdfdf hjwew dfdjf,
+    dfk d fjdkf sdkf sdjfsf.
+    df d fkjs d,
     dfds jffj sd fks dfsdfksdf,
     dsfsd jfs dkfsd f.
 </center>
