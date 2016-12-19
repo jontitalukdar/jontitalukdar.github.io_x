@@ -6,10 +6,10 @@ excerpt: "Persistence is one of the stepping stones to success. This is highligh
 tags: [post 2, persistence ,blog, life, introspection]
 comments: true
 ---
-## HTML Elements
+## Motivation in Small Doses, Post_2, 19th December, 09:12pm
 
-Hello . this is center ps akhdkfhdj paratgajfnjdkfdjf jfad/fdjafdfdaf. jhjdhjkdhsfjkahsdfjkdfhj . jfhsdjfkhdfjdfhjfhjdfhdjfdjfdjfdjfdfjdfjdfjdhfjsfhsdjkfsdjkfsfjhfjhsdjfkhasjfhsdjfsdhfjddjsdhfjfj,. kdjfhdjfh fjde
-iweiuqweqhfdnj vl.fjhsdfdf. hfdjfhdjkfhdf. dfjudhfuerfnf. fhdjf. dufdfdf djfdjfsw iwerjer iorekrekr kkerke krker 
+Everyone has problems at some point in their lives. But only a few are really able to get over them and with ease. The fuel which drives them through their problems is **Motivation**. Motivation is defined as *a reason or reasons for acting or behaving in a particular way*. 
+<center>
   
     It is the plugging away
     adfkfdkf
@@ -17,5 +17,6 @@ iweiuqweqhfdnj vl.fjhsdfdf. hfdjfhdjkfhdf. dfjudhfuerfnf. fhdjf. dufdfdf djfdjfs
     dfdfkjsd,
         dfdsjffjsdfksdfsdfksdf,
         dsfsdjfsdkfsdf.
+</center>
 dkfjfkfsd
 sdkdfksdjfsd
