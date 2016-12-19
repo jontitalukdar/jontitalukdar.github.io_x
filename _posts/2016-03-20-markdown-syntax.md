@@ -1,28 +1,44 @@
 ---
 layout: post
-title: "Motivation in small doses"
+title: "Motivation in Small Doses"
 date: 2016-12-17
-excerpt: "Persistence is one of the stepping stones to success. This is highlighted by this excerpt from a poem, 'The Quitter' by Robert W. Service."
-tags: [post 2, persistence ,blog, life, introspection]
+excerpt: "Small things make a big difference. Inculcating a few things in our daily routine goes a long way in taking our lives forward..."
+tags: [post 2, persistence, motivation ,blog, life, introspection]
 comments: true
 ---
+
 ## Motivation in Small Doses, Post_2, 19th December, 09:12pm
 
-Everyone has problems at some point in their lives. But only a few are really able to get over them and with ease. The fuel which drives them through their problems is **Motivation**. Motivation is defined as *a reason or reasons for acting or behaving in a particular way*. 
+Everyone has problems at some point in their lives. But only a few are really able to get over them with ease. The fuel which drives them through their problems is **Motivation**. Motivation is defined as *a reason or reasons for acting or behaving in a particular way*. Thus it is essential to remain motivated to do something. Motivation comes naturally to us, if we want to do something we really love. For example children who love ice-cream will really finish their homework if it means they can have ice-cream upon completion. Thus these *positive motivators* play an important and often critical role in our lives.
 
-## The quitter
+Motivation works like a reward system in our body. It compels us to get out of our comfort zone and accomplish tasks which might be difficult to achieve. It thus forces our heart and mind to positively and constructively devote our energy and senses to achieve what we want. The journey is often difficult and riddled with challenges, but motivation fuels us forward. Thus it is extremely important to always stay motivated. 
 
-    <center>
-    It is the plugging away,
-    adfkfdkf dkkd kkd keiw ,
-    fjdf dndnf dakakw jjgg,
-    djdfdf hjwew dfdjf,
-    dfk d fjdkf sdkf sdjfsf.
-    df d fkjs d,
-    dfds jffj sd fks dfsdfksdf,
-    dsfsd jfs dkfsd f.
-    </center>
+However, just like two sides of a coin, motivation too, can be both positive and negative. *Negative Motivation* stems from our desire to have something which is superficial in nature and not something we really whole heartedly want. It may be somehing like the lure of easy money through shortcuts, or skipping classes to go for a movie etc. Thus negative motivation is detrimental for our well being and doesnt provide any benefits in the long run. *Positive Motivation* on the other hand stems from our deep seated need to achieve something really good for ourselves in life. It may be the 'high' we get when we dream of achieveing something we really wanted to since childhood, like being an astronaut, or attaining a stable career, a steady income, a desire to travel and see the world etc. Such type of motivation, thus compels us to plan our way forward and eventually guides the direction of our lives. Wanting to travel and see the world will compel a lazy person to get up and work hard. To earn enough funds to finance his/her adventure.
 
-dkfjfkfsd
-sdkdfksdjfsd
-sdkjfkfjkfjdkfdpwprpeoereorer m. dfidfjsdifj /sdfhjdfi sfisdjfi fsdofj iojior jweiorj weorjriowero wo lr wer/.
+*Positive Motivation thus imparts us with a strong driving force and provides us with a strong intention to work on our goals*. It thus becomes our supreme duty to ensure that we are always motivated positively. This can be achieved in many ways. However, one of the most common ways to achieve this is through **Positive Imaging**. This concept (developed by Norman Vincent Peale) states that (in his own words):
+>>"An individual who mentally visualizes himself achieving rather than failing and, importantly, who is willing to pay the price of **intensive study** and **sustained effort**, advances towards his goal."
+
+This however, also necessitates the fact, that we must have a crystal clear picture of our goals and believe that we can achieve them. If we visualize ourselves as achieving that *something*, we will automatically start planning towards achieving that target and move forward. It will also clear up the picture in our mind and show us an achievable path forward. Hence as our misdirections, mistaken beliefs and self doubts now cleared, we will move forward, almost hypnotically, towards our goals. We must also learn to practice **Creative Anticipation**, that is whatever we expect subconsiuously, we tend to imagine that and eventually get that. Thus, we must confidently image and expect the best. Habitual expectations attract corresponding circumstances and events. As Norman Vincent Peale said, "*In all thinking and in all action, just as in the precise laws of mathematics and physics, all things are governed by cause and effect.*". We can thus improve oursleves by using the applicable laws of Positive Imaging and Creative Anticipation. Psychologist William James has truly said a remarkable thing:
+>>"The greatest discovery of my generation, is that human beings can alter their lives by altering their attitudes of mind."
+
+    Thus, Once we know our goals crystal clear, want them hard and are motivated towards them, we go at it with abandon. We go all out, holding nothing back, because Beilef and Action become our slogan. "Success means doing the best we can with what we have. Success is the doing, not the getting; in the trying, not the triumph. Success is a personal standard, reaching for the highest that is in us, becoming all that we can be." - Zig Ziglar
+
+It is true that we will eventually tend to slump back. But we need to fight it. And that is why motivation is often compared to taking bath. You don't have it once, but every now and then. It is thus important to keep on renewing the positive energy and motivation, even everyday. Everyone starts the journey, but only a few make it across, becaus they are the ones who never give up what they really want and achieve this by renewing their motivation every single day. This renewal brings us to the **Persistence Principle**, which basically means we never give up. It is always too soon to quit. Persistence is one of the stepping stones to success. This is highlighted by this excerpt from a poem, 'The Quitter' by Robert W. Service.
+
+### The Quitter, Robert W Service
+    IIt's the plugging away that will win you the day,
+    So don't be a piker, old pard!
+    Just draw on your grit; it's so easy to quit:
+    It's the keeping-your-chin-up that's hard.
+    It's easy to cry that you're beaten — and die;
+    It's easy to crawfish and crawl;
+    But to fight and to fight when hope's out of sight —
+    Why, that's the best game of them all!
+    And though you come out of each gruelling bout,
+    All broken and beaten and scarred,
+    Just have one more try — it's dead easy to die,
+    It's the keeping-on-living that's hard.
+    
+Thank you so much for reading this... This post is inspired by a few chapters from the book "You Can if You Think You Can", by Norman Vincent Peale. And don't forget... Small doses of motivation everyday... Keeps failure away. 
+- Jonti Talukdar
+---
