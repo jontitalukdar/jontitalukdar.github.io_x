@@ -4,30 +4,33 @@ title: "Research"
 comments: true
 feature: https://jontitalukdar.github.io/assets/img/placeholder-big.jpg
 ---
-## Focus: Computer Vision, Machine Learning and Deep Learning
- 
+## Computer Vision, Machine Learning and Deep Learning
+
 ### 1. Transfer Learning for Object Detection using state of the art Deep Convolutional Neural Networks
-__**Research Internship, High Performance Computing Lab, IIT Gandhinagar; under Dr. Ravi Hegde**__
+*Research Internship, High Performance Computing Lab, IIT Gandhinagar; under Dr. Ravi Hegde*
 * Trained Deep Convolutional Neural Networks on synthetic images for the task of object detection using Nvidia GPUs like Titan X and GTX 1070.
 * Wrote task scheduling algorithms for GPU memory optimization and parallel procesing.
 * Developed artificially rendered synthetic datasets using Blender, achieving high photorealism for transfer learning. Also tested different data augmentation techniques for effective transfer learning.
 * Performed hyperparameter optimization of state of the art deep convolutional neural networks like faster RCNN, SSD, R-FCN, GoogLeNet, DetectNet, etc. using Caffe and TensorFlow frameworks and increased overall mAP by more than 35%.
 
-[**NCVPRIPG 17**](https://drive.google.com/file/d/0ByGq26nUw_7FUVNnQTdGNjlOZzBRR1lHQTBNekxVeTNEZ1pF/)&emsp;
+[**NCVPRIPG 17**](https://drive.google.com/file/d/0ByGq26nUw_7FUVNnQTdGNjlOZzBRR1lHQTBNekxVeTNEZ1pF/){:target="_blank"}&emsp;
 [**SPIN 18**]
-[Poster](assets/conll_poster.pdf)&emsp;
-[Report](https://github.com/desh2608/crnn-relation-classification)
+[Poster](assets/conll_poster.pdf){:target="_blank"}&emsp;
+[Report](https://github.com/desh2608/crnn-relation-classification){:target="_blank"}
 
-### 2. Real-time Human Action Recognition System
-__**Funded R&D Project, IdeaLab Technology Incubator; under Dr. Tanish Zaveri**__
+## 2. Real-time Human Action Recognition System
+*Funded R&D Project, [IdeaLab Technology Incubator](http://www.nirmauni.ac.in/ITNU/idea_Lab_EC_2016){:target="_blank"}; under Dr. Tanish Zaveri*
 * Developed a novel approach for recognizing human actions using good features and iterative optical flow algorithm.
 * Used the resilient backpropagation algorithm for training the feedforward neural network by utilizing OpenCV and Python based machine learning libraries including ‘sklearn’, ‘skimage’, etc.
 * Implemented and tested the system on embedded Linux platforms including Odroid XU4, Raspberry Pi 3. 
 
 [**IEEE ICCSP 17**](https://arxiv.org/ftp/arxiv/papers/1708/1708.06794.pdf){:target="_blank"};
 [Slides]
-#### 3. Text readability analysis using language modeling
-*Guide: Prof. Ashish Anand, Dept. of CSE, IIT Guwahati*
+[Report]
+[Poster]
+
+## 3. Road Network Extraction for Remote Sensing Applications
+*Under external funding through ISRO-RESPOND Project, SAC ISRO; under Dr. Tanish Zaveri*
 
 * Developed an unsupervised approach for predicting text readability scores using different language models
 * Implemented statistical and deep-learning models, for comparing results with vocabulary-based and syntactic approaches
