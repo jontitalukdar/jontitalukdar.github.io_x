@@ -2,7 +2,6 @@
 layout: page
 title: "Research"
 comments: true
-feature: https://jontitalukdar.github.io/assets/img/placeholder-big.jpg
 ---
 ### Deep learning applied to NLP and Vision
 
