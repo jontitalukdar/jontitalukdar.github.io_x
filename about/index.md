@@ -21,7 +21,7 @@ It is thus important, to take a break from this mundane and dystopian life, and 
 
 So whenever you feel, like everything is going south on you, just surrender… to your thoughts… and find that feeling… because it will revitalize you, to work hard in your real life. It is this very key, which has allowed our ancestors to thrive, when no one else could, and paved a way for our success today. 
 
->With this very feeling, I welcome you, to the journey to the centre of my mind, a lawless and tumultuous place, where long-winded rivers of thought meet, generate and create ideas. A beautiful amalgamation of the meandering rivers into the sea. A place where chaos is indeed beautiful.
+>With this very feeling, I welcome you, to the journey to the centre of my mind, a lawless and tumultuous place, where long-winded rivers of thought meet, generate and create ideas. A beautiful amalgamation of the meandering rivers into the sea. A place where chaos is indeed beautiful..
 
 <right>- Jonti Talukdar </right>
 	
