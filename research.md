@@ -15,7 +15,7 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 [**NCVPRIPG 17**](https://drive.google.com/file/d/0ByGq26nUw_7FUVNnQTdGNjlOZzBRR1lHQTBNekxVeTNEZ1pF/){:target="_blank"}&emsp;
 [**SPIN 18**](https://drive.google.com/file/d/1OAXnc1xybuX_QhdADk7FsJfTKOT9puSW/view?usp=sharing){:target="_blank"}&emsp;
 [Poster](assets/cnnposter.pdf){:target="_blank"}&emsp;
-[Report](https://github.com/desh2608/crnn-relation-classification){:target="_blank"}&emsp;
+[Report](assets/jonti_cnn_report.pdf){:target="_blank"}&emsp;
 
 ## 2. Real-time Human Action Recognition System
 *Funded R&D Project, [IdeaLab Technology Incubator](http://www.nirmauni.ac.in/ITNU/idea_Lab_EC_2016){:target="_blank"}; under Dr. Tanish Zaveri*
