@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Research"
 comments: true
 feature: https://jontitalukdar.github.io/assets/img/res.jpg
@@ -46,7 +46,7 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 
 ## Intelligent Algorithms in Communication, Computer Architecture and Cyber Physical Systems
 ***
-#### 1. Computational Intelligence in Embedded Systems Design
+## 1. Computational Intelligence in Embedded Systems Design
 *Minor Research Project, Dept. of ECE, Nirma University; under Dr. Sachin Gajjar*
 * The objective is to model the effect of Computational Intelligence and Soft Computing methods on design metrics of Embedded Systems.
 * Effect of Fuzzy Logic, Evolutionary Algorithms, Neural Networks and Reinforcement learning measured on design optimization of Embedded design metrics like power, TTM, Performance, Fault Tolerance, Time Criticality etc.
@@ -67,8 +67,10 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 * Allocated remaining bandwidth to secondary users, enhancing channel utilization.
 
 [**IEEE WiSPNET 17**](https://arxiv.org/ftp/arxiv/papers/1708/1708.06802.pdf){:target="_blank"}&emsp;
+
 ***
 ## Other Projects
+***
 ### 1. RISC V ISA Simulator 
 *Course Project- Modern Processor Architecture; under Prof. Khyati Vachhani*
 * Compiled the RISC V software toolchain for simulation of on Linux kernel.
@@ -82,11 +84,14 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 
 ### 3. Obstacle Detector using Analog Ultrasonic Sensor
 *Course Project- Integrated Circuits & Appl.*
-# Designed an obstacle detector mechanism using digital ultrasonic sensor and 555 Timer operating as an astable multivibrator.
-# 555 timer used as a trigger circuit to drive the HC-SR04 ultrasonic sensor. Combinational logic used to light LED if object detected in close proximity, with range adjustment circuit.
+* Designed an obstacle detector mechanism using digital ultrasonic sensor and 555 Timer operating as an astable multivibrator.
+* 555 timer used as a trigger circuit to drive the HC-SR04 ultrasonic sensor. Combinational logic used to light LED if object detected in close proximity, with range adjustment circuit.
 
 ***
 
 >After all, to maximize your chances of having a happy ending in this cruel composition of life, you need every possible advantage you can get. 
 
 -Jonti Talukdar 
+
+[Home](https://jontitalukdar.github.io/){: .btn} 
+[Publications](https://jontitalukdar.github.io/publications){: .btn} 
