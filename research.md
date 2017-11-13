@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: "Research"
-comments: true
 feature: https://jontitalukdar.github.io/assets/img/res.jpg
 ---
 ## Computer Vision, Machine Learning and Deep Learning
