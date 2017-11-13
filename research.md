@@ -43,7 +43,6 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 * Used multiclass linear SVM for training the classified data into a machine learning model. 
 
 ***
-
 ## Intelligent Algorithms in Communication, Computer Architecture and Cyber Physical Systems
 ***
 ## 1. Computational Intelligence in Embedded Systems Design
