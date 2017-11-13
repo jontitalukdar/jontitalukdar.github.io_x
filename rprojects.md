@@ -7,7 +7,8 @@ feature: https://jontitalukdar.github.io/assets/img/placeholder-big.jpg
 # Focus: Computer Vision, Machine Learning and Deep Learning
 
 ## 1. Transfer Learning for Object Detection using state of the art Deep Convolutional Neural Networks
->Research Internship, High Performance Computing Lab, IIT Gandhinagar; under Dr. Ravi Hegde
+>**Research Internship, High Performance Computing Lab, IIT Gandhinagar; under Dr. Ravi Hegde**
+
 * Trained Deep Convolutional Neural Networks on synthetic images for the task of object detection using Nvidia GPUs like Titan X and GTX 1070.
 * Wrote task scheduling algorithms for GPU memory optimization and parallel procesing.
 * Developed artificially rendered synthetic datasets using Blender, achieving high photorealism for transfer learning. Also tested different data augmentation techniques for effective transfer learning.
@@ -19,7 +20,7 @@ feature: https://jontitalukdar.github.io/assets/img/placeholder-big.jpg
 [Report](https://github.com/desh2608/crnn-relation-classification)
 
 ## 2. Real-time Human Action Recognition System
->Funded R&D Project, IdeaLab Technology Incubator; under Dr. Tanish Zaveri
+>**Funded R&D Project, IdeaLab Technology Incubator; under Dr. Tanish Zaveri**
 
 * Developed a novel approach for recognizing human actions using good features and iterative optical flow algorithm.
 * Used the resilient backpropagation algorithm for training the feedforward neural network by utilizing OpenCV and Python based machine learning libraries including ‘sklearn’, ‘skimage’, etc.
