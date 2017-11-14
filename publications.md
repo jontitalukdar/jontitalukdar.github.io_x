@@ -8,7 +8,7 @@ title: "Publications"
 
 2. **J. Talukdar**, B. Mehta, "Human Action Recognition using Good Features and Multilayer Perceptron Network", *6th IEEE International Conference on Communication and Signal Processing*, 2017. (6th ICCSP 17). [Paper](https://arxiv.org/ftp/arxiv/papers/1708/1708.06794.pdf){:target="_blank"}&emsp; [Slides](assets/iccsp_ppt.pdf){:target="_blank"}&emsp;
 
-3. **J. Talukdar**, B. Mehta, K. Aggrawal, M. Kamani, "Implementation of SNR estimation based Energy Detection on USRP and GNU Radio for Cognitive Radio Networks", 2nd IEEE International Conference on Wireless Communication, Signal Processing and Networking, 2017 (WiSPNET 17). [Paper](https://arxiv.org/ftp/arxiv/papers/1708/1708.06802.pdf){:target="_blank"}&emsp;
+3. **J. Talukdar**, B. Mehta, K. Aggrawal, M. Kamani, "Implementation of SNR estimation based Energy Detection on USRP and GNU Radio for Cognitive Radio Networks", *2nd IEEE International Conference on Wireless Communication, Signal Processing and Networking*, 2017 (WiSPNET 17). [Paper](https://arxiv.org/ftp/arxiv/papers/1708/1708.06802.pdf){:target="_blank"}&emsp;
 
 4. B. Mehta, **J. Talukdar**, S. Gajjar, "High Speed SRT Divider for Intelligent Embedded System", *2nd International Conference on Soft Computing*, 2017 (IcSoftComp 17). [Paper](assets/softcomp.pdf)
 
