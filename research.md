@@ -56,7 +56,7 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 * Design and development of Fuzzy Logic based intelligent radix 4 SRT division algorithm in IBM Bluespec.
 * Testing and benchmarking of algorithm done on Xilinx UltraScale device with Vivado support.
 
-[Paper]In Press(IEEE SoftComp)
+[Paper](assets/softcomp.pdf)In Press(IEEE SoftComp)
 
 ## 3. SNR Estimation based Smart-Sensing Algorithm for Cognitive Radio
 *Minor Research Project, Nirma University; under Prof. Khyati Vachhani*
