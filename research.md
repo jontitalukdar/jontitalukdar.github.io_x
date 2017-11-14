@@ -32,8 +32,9 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 *Under external funding through ISRO-RESPOND Project, SAC ISRO; under Dr. Tanish Zaveri*
 * Worked on implementing a two-step algorithm for extracting linear features from Synthetic Aperture Radar (SAR) images for Ahmedabad city.
 * Performed preprocessing on images extracted using C2 features like entropy, anisotropy, scattering to distinguish roads from the SAR images using PolSAR Pro, by ESA.
+* Worked on different speckle filtering methods to remove background scatter and speckle noise.
 
-[Report](assets/isro.pdf){:target="_blank"}&emsp;
+[**Project-Report**](assets/isro.pdf){:target="_blank"}&emsp;
 
 ## 4. OCR based Number Recognition on Raspberry Pi
 *Curriculum based Mini Project; under Dr. Sachin Gajjar*
