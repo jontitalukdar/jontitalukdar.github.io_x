@@ -49,14 +49,14 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 * The objective is to model the effect of Computational Intelligence and Soft Computing methods on design metrics of Embedded Systems.
 * Effect of Fuzzy Logic, Evolutionary Algorithms, Neural Networks and Reinforcement learning measured on design optimization of Embedded design metrics like power, TTM, Performance, Fault Tolerance, Time Criticality etc.
 
-[Paper]Under Review (ICTCS-17)
+[Paper] Under Review (ICTCS-17)
 
 ## 2. Desig of Radix 4 SRT Divider
 *In collaboration with RISE Lab, Dept. of CSE, IIT Madras*
 * Design and development of Fuzzy Logic based intelligent radix 4 SRT division algorithm in IBM Bluespec.
 * Testing and benchmarking of algorithm done on Xilinx UltraScale device with Vivado support.
 
-[Paper](assets/softcomp.pdf)In Press(IEEE SoftComp)
+[**IEEE IcSoftComp 17**](assets/softcomp.pdf)In Press(IEEE SoftComp)
 
 ## 3. SNR Estimation based Smart-Sensing Algorithm for Cognitive Radio
 *Minor Research Project, Nirma University; under Prof. Khyati Vachhani*
