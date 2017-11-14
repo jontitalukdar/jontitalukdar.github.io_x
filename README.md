@@ -8,18 +8,3 @@
 * The blog is hosted through this very github repository. Hence it is opensource.
 * The articles expressed in the blog are the writer's views only and are not be plagiarized. 
 * The theme is open source and free for use given in the link -http://taylantatli.github.io/Moon/moon-theme/
-
-## Features 
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
-
