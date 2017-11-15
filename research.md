@@ -50,7 +50,7 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 * The objective is to model the effect of Computational Intelligence and Soft Computing methods on design metrics of Embedded Systems.
 * Effect of Fuzzy Logic, Evolutionary Algorithms, Neural Networks and Reinforcement learning measured on design optimization of Embedded design metrics like power, TTM, Performance, Fault Tolerance, Time Criticality etc.
 
-[Paper] Under Review (ICTCS-17)
+[**Paper**](https://drive.google.com/file/d/0ByGq26nUw_7FY1JRUGlPOWQ1dWtMcHdJcm1STFZqYVpFRk84/edit){:target="_blank"}&emsp; Under Review (ICTCS-17)
 
 ## 2. Desig of Radix 4 SRT Divider
 *In collaboration with RISE Lab, Dept. of CSE, IIT Madras*
@@ -74,7 +74,7 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 *Course Project- Modern Processor Architecture; under Prof. Khyati Vachhani*
 * Compiled the RISC V software toolchain for simulation of on Linux kernel.
 * Implemented the RISC V instruction set simulator ‘Spike’ for functional simulation of memory and register operations.
-* sed RISC V cross compiler for compilation of basic C programs in assembly language.
+* Used RISC V cross compiler for compilation of basic C programs in assembly language.
 
 ### 2. IoT based Sensor Management System. 
 *Seminar; under Dr. Sachin Gajjar*
@@ -85,6 +85,28 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 *Course Project- Integrated Circuits & Appl.*
 * Designed an obstacle detector mechanism using digital ultrasonic sensor and 555 Timer operating as an astable multivibrator.
 * 555 timer used as a trigger circuit to drive the HC-SR04 ultrasonic sensor. Combinational logic used to light LED if object detected in close proximity, with range adjustment circuit.
+
+### 4. Design and Simulation of Autonomous Indoor Navigating UAV
+*Minor Research Project, Nirma University UAV Team; under Dr. Dilip Kothari*
+* Proposed an autonomous UAV system which performs simultaneous localization and mapping (SLAM).
+* Simulations of the model and SLAM algorithm performed in ‘gazebo’ and ROS Indigo.
+* Proof of concept implemented and successfully tested using a terrestrial ground robot with on board 3600 RPLidar.
+
+### 5. Design of 8 bit Dual Port SRAM in Verilog HDL
+*Course Project- Digital System Design.*
+* Designed and synthesized the RTL level model for an 8 bit dual port SRAM in Verilog HDL.
+* Deployed and tested the SRAM on reconfigurable architectures like the Altera Cyclone II FPGA.
+
+### 6. Implementation of Audio Steganography on FPGA
+*Term Project (Sem-7); Ongoing*
+* Designed and Deployed Simulink based model for LSB method of audio steganography through Xilinx System Generator, hiding text messages in audio bit stream
+* Prepared ADC and DAC sampling systems using Verilog HDL for audio conversion and sampling.
+
+### 7. CMOS Layout design in Mirowind
+*Course Project- Digital Integrated Circuits*
+* Designed and optimized gate level models and transistor level schematic of Boolean functions in Microwind.
+* Drew CMOS layout of the circuit using stick models, performed DRC and  simulated various combination of inputs to measure
+rise time, fall time and threshold voltage levels.
 
 ***
 
