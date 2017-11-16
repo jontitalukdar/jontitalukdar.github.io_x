@@ -52,12 +52,12 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 
 [**Paper**](https://drive.google.com/file/d/0ByGq26nUw_7FY1JRUGlPOWQ1dWtMcHdJcm1STFZqYVpFRk84/edit){:target="_blank"}&emsp; Under Review (ICTCS-17)
 
-## 2. Desig of Radix 4 SRT Divider
+## 2. Design of High Seed Radix 4 SRT Divider 
 *In collaboration with RISE Lab, Dept. of CSE, IIT Madras*
-* Design and development of Fuzzy Logic based intelligent radix 4 SRT division algorithm in IBM Bluespec.
+* Design and development of Fuzzy Logic based intelligent radix 4 SRT division algorithm in IBM Bluespec. Improved the earlier SRT radix 4 method by making it more parallel and using fuzzy based method for quotient/remainder selection
 * Testing and benchmarking of algorithm done on Xilinx UltraScale device with Vivado support.
 
-[**IEEE IcSoftComp 17**](assets/softcomp.pdf){:target="_blank"}&emsp;
+[**IEEE IcSoftComp 17**](assets/srt.pdf){:target="_blank"}&emsp;
 
 ## 3. SNR Estimation based Smart-Sensing Algorithm for Cognitive Radio
 *Minor Research Project, Nirma University; under Prof. Khyati Vachhani*
@@ -70,27 +70,27 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 ***
 ## Other Projects
 ***
-### 1. RISC V ISA Simulator 
+### 1. RISC-V ISA benchmarking for x-86
 *Course Project- Modern Processor Architecture; under Prof. Khyati Vachhani*
-* Compiled the RISC V software toolchain for simulation of on Linux kernel.
+* Compiled the RISC V software toolchain (Including RISC-V GNU toolchain, frontend server and Spike ISA Simulator)[https://riscv.org/software-tools/] for simulation of on Linux kernel.
 * Implemented the RISC V instruction set simulator ‘Spike’ for functional simulation of memory and register operations.
-* Used RISC V cross compiler for compilation of basic C programs in assembly language.
+* Used RISC V cross compiler for compilation of basic C programs in assembly language for x-86 systems, converting high level code to machine code.
 
-### 2. IoT based Sensor Management System. 
+### 2. IoT based Sensor Management System 
 *Seminar; under Dr. Sachin Gajjar*
 * Projected data from light, temperature and motion sensors to ‘ThingSpeak’ cloud API using the ESP8266 module.
 * Used the ESP8266 as a web server, controlling its GPIOs through the internet by another device connected to the same network. 
-
-### 3. Obstacle Detector using Analog Ultrasonic Sensor
-*Course Project- Integrated Circuits & Appl.*
-* Designed an obstacle detector mechanism using digital ultrasonic sensor and 555 Timer operating as an astable multivibrator.
-* 555 timer used as a trigger circuit to drive the HC-SR04 ultrasonic sensor. Combinational logic used to light LED if object detected in close proximity, with range adjustment circuit.
 
 ### 4. Design and Simulation of Autonomous Indoor Navigating UAV
 *Minor Research Project, Nirma University UAV Team; under Dr. Dilip Kothari*
 * Proposed an autonomous UAV system which performs simultaneous localization and mapping (SLAM).
 * Simulations of the model and SLAM algorithm performed in ‘gazebo’ and ROS Indigo.
 * Proof of concept implemented and successfully tested using a terrestrial ground robot with on board 3600 RPLidar.
+
+### 3. Obstacle Detector using Analog Ultrasonic Sensor
+*Course Project- Integrated Circuits & Applications*
+* Designed an obstacle detector mechanism using digital ultrasonic sensor and 555 Timer operating as an astable multivibrator.
+* 555 timer used as a trigger circuit to drive the HC-SR04 ultrasonic sensor. Combinational logic used to light LED if object detected in close proximity, with range adjustment circuit.
 
 ### 5. Design of 8 bit Dual Port SRAM in Verilog HDL
 *Course Project- Digital System Design.*
