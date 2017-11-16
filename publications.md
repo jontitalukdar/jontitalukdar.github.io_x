@@ -10,7 +10,7 @@ title: "Publications"
 
 3. **J. Talukdar**, B. Mehta, K. Aggrawal, M. Kamani, "**Implementation of SNR estimation based Energy Detection on USRP and GNU Radio for Cognitive Radio Networks**", *2nd IEEE International Conference on Wireless Communication, Signal Processing and Networking*, 2017 (WiSPNET 17). [Paper](https://arxiv.org/ftp/arxiv/papers/1708/1708.06802.pdf){:target="_blank"}&emsp;
 
-4. B. Mehta, **J. Talukdar**, S. Gajjar, "**High Speed SRT Divider for Intelligent Embedded System**", *2nd International Conference on Soft Computing*, 2017 (IcSoftComp 17). [Paper](assets/softcomp.pdf){:target="_blank"}&emsp;
+4. B. Mehta, **J. Talukdar**, S. Gajjar, "**High Speed SRT Divider for Intelligent Embedded System**", *2nd International Conference on Soft Computing*, 2017 (IcSoftComp 17). [Paper](assets/srt.pdf){:target="_blank"}&emsp;
 
 ### Publications under Review
 ***
