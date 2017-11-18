@@ -14,9 +14,11 @@ title: "Publications"
 
 ### Publications under Review
 ***
-1. **J. Talukdar**, B. Mehta, S. Gajjar, "**Computational Intelligence in Embedded System Design: A Review**", *3rd International Conference on Information and Communication Technology for Competitive Strategies*, 2017 (ICTCS 17). [Paper](https://drive.google.com/file/d/0ByGq26nUw_7FY1JRUGlPOWQ1dWtMcHdJcm1STFZqYVpFRk84/edit){:target="_blank"}&emsp;
+1. **J. Talukdar**, A. Biswas, S. Gupta, "**Data Augmentation on Synthetic Images for Transfer Learning using Deep CNNs**", *5th IEEE International Conference on Signal Processing and Integrated Networks*, 2018 (SPIN 18). [Paper](https://drive.google.com/file/d/1tXU44sWHLUwoSy3mjwqQ9mLnfsnzSdSf/){:target="_blank"}&emsp;
 
 2. **J. Talukdar**, S. Gupta, P. Rajpura, R. Hegde, "**Transfer Learning for Object Detection using State of the Art Deep Neural Networks**", *5th IEEE International Conference on Signal Processing and Integrated Networks*, 2018 (SPIN 18). [Paper](https://drive.google.com/file/d/1OAXnc1xybuX_QhdADk7FsJfTKOT9puSW/view?usp=sharing){:target="_blank"}&emsp;
+
+3. **J. Talukdar**, B. Mehta, S. Gajjar, "**Computational Intelligence in Embedded System Design: A Review**", *3rd International Conference on Information and Communication Technology for Competitive Strategies*, 2017 (ICTCS 17). [Paper](https://drive.google.com/file/d/0ByGq26nUw_7FY1JRUGlPOWQ1dWtMcHdJcm1STFZqYVpFRk84/edit){:target="_blank"}&emsp;
 
 ***
 
