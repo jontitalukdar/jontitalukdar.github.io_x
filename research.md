@@ -13,7 +13,8 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 * Performed hyperparameter optimization of state of the art deep convolutional neural networks like faster RCNN, SSD, R-FCN, GoogLeNet, DetectNet, etc. using Caffe and TensorFlow frameworks and increased overall mAP by more than 35%.
 
 [**NCVPRIPG 17**](https://drive.google.com/file/d/0ByGq26nUw_7FUVNnQTdGNjlOZzBRR1lHQTBNekxVeTNEZ1pF/){:target="_blank"}&emsp;
-[**SPIN 18**](https://drive.google.com/file/d/1OAXnc1xybuX_QhdADk7FsJfTKOT9puSW/view?usp=sharing){:target="_blank"}&emsp;
+[**SPIN 18: Transfer Learning**](https://drive.google.com/file/d/1OAXnc1xybuX_QhdADk7FsJfTKOT9puSW/view?usp=sharing){:target="_blank"}&emsp;
+[**SPIN 18: Data augmentation**](https://drive.google.com/file/d/1tXU44sWHLUwoSy3mjwqQ9mLnfsnzSdSf/){:target="_blank"}&emsp;
 [Poster](assets/cnnposter.pdf){:target="_blank"}&emsp;
 [Report](assets/jonti_cnn_report.pdf){:target="_blank"}&emsp;
 
