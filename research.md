@@ -53,7 +53,7 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 
 [**Paper**](https://drive.google.com/file/d/0ByGq26nUw_7FY1JRUGlPOWQ1dWtMcHdJcm1STFZqYVpFRk84/edit){:target="_blank"}&emsp; Under Review (ICTCS-17)
 
-## 2. Design of High Seed Radix 4 SRT Divider 
+## 2. Design of High Speed Radix 4 SRT Divider 
 *In collaboration with RISE Lab, Dept. of CSE, IIT Madras*
 * Design and development of Fuzzy Logic based intelligent radix 4 SRT division algorithm in IBM Bluespec. Improved the earlier SRT radix 4 method by making it more parallel and using fuzzy based method for quotient/remainder selection
 * Testing and benchmarking of algorithm done on Xilinx UltraScale device with Vivado support.
