@@ -4,7 +4,7 @@ title: "Publications"
 ---
 ### List of Accepted Publications (in press)
 ***
-1. P. Rajpura, A. Aggarwal, M. Goyal, S. Gupta, **J. Talukdar**, R. Hegde, H. Bojinov, "**Transfer Learning by Finetuning Pretrained CNNs Entirely with Synthetic Images**", *6th National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics*, 2017. (6th NCVPRIPG 17). [Paper](https://drive.google.com/file/d/0ByGq26nUw_7FUVNnQTdGNjlOZzBRR1lHQTBNekxVeTNEZ1pF/){:target="_blank"}&emsp;
+1. P. Rajpura, A. Aggarwal, M. Goyal, S. Gupta, **J. Talukdar**, R. Hegde, H. Bojinov, "**Transfer Learning by Finetuning Pretrained CNNs Entirely with Synthetic Images**", *6th National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (Springer CCIS)*, 2017. (6th NCVPRIPG 17). [Paper](https://drive.google.com/file/d/0ByGq26nUw_7FUVNnQTdGNjlOZzBRR1lHQTBNekxVeTNEZ1pF/){:target="_blank"}&emsp;
 
 2. **J. Talukdar**, A. Biswas, S. Gupta, "**Data Augmentation on Synthetic Images for Transfer Learning using Deep CNNs**", *5th IEEE International Conference on Signal Processing and Integrated Networks*, Feb. 2018 (SPIN 18). [Paper](https://drive.google.com/file/d/1tXU44sWHLUwoSy3mjwqQ9mLnfsnzSdSf/){:target="_blank"}&emsp;
 
@@ -16,7 +16,7 @@ title: "Publications"
 
 6. B. Mehta, **J. Talukdar**, S. Gajjar, "**High Speed SRT Divider for Intelligent Embedded System**", *2nd International Conference on Soft Computing*, 2017 (IcSoftComp 17). [Paper](assets/srt.pdf){:target="_blank"}&emsp;
 
-7. **J. Talukdar**, B. Mehta, S. Gajjar, "**Computational Intelligence in Embedded System Design: A Review**", *3rd International Conference on Information and Communication Technology for Intelligent Systems (Springer)*, 2018 (ICTIS 18). [Paper](https://drive.google.com/file/d/0ByGq26nUw_7FY1JRUGlPOWQ1dWtMcHdJcm1STFZqYVpFRk84/edit){:target="_blank"}&emsp;
+7. **J. Talukdar**, B. Mehta, S. Gajjar, "**Computational Intelligence in Embedded System Design: A Review**", *3rd International Conference on Information and Communication Technology for Intelligent Systems (Springer SIST)*, 2018 (ICTIS 18). [Paper](https://drive.google.com/file/d/0ByGq26nUw_7FY1JRUGlPOWQ1dWtMcHdJcm1STFZqYVpFRk84/edit){:target="_blank"}&emsp;
 
 ### Publications under Review
 ***
