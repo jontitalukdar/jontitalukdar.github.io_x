@@ -51,7 +51,7 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 * The objective is to model the effect of Computational Intelligence and Soft Computing methods on design metrics of Embedded Systems.
 * Effect of Fuzzy Logic, Evolutionary Algorithms, Neural Networks and Reinforcement learning measured on design optimization of Embedded design metrics like power, TTM, Performance, Fault Tolerance, Time Criticality etc.
 
-[**Paper**](https://drive.google.com/file/d/0ByGq26nUw_7FY1JRUGlPOWQ1dWtMcHdJcm1STFZqYVpFRk84/edit){:target="_blank"}&emsp; Under Review (ICTCS-17)
+[**Springer ICTIS 18**](https://drive.google.com/file/d/0ByGq26nUw_7FY1JRUGlPOWQ1dWtMcHdJcm1STFZqYVpFRk84/edit){:target="_blank"}&emsp; 
 
 ## 2. Design of High Speed Radix 4 SRT Divider 
 *In collaboration with RISE Lab, Dept. of CSE, IIT Madras*
