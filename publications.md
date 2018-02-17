@@ -16,9 +16,11 @@ title: "Publications"
 
 6. B. Mehta, **J. Talukdar**, S. Gajjar, "**High Speed SRT Divider for Intelligent Embedded System**", *2nd International Conference on Soft Computing*, 2017 (IcSoftComp 17). [Paper](assets/srt.pdf){:target="_blank"}&emsp;
 
+7. **J. Talukdar**, B. Mehta, S. Gajjar, "**Computational Intelligence in Embedded System Design: A Review**", *3rd International Conference on Information and Communication Technology for Intelligent Systems (Springer)*, 2018 (ICTIS 18). [Paper](https://drive.google.com/file/d/0ByGq26nUw_7FY1JRUGlPOWQ1dWtMcHdJcm1STFZqYVpFRk84/edit){:target="_blank"}&emsp;
+
 ### Publications under Review
 ***
-1. **J. Talukdar**, B. Mehta, S. Gajjar, "**Computational Intelligence in Embedded System Design: A Review**", *3rd International Conference on Information and Communication Technology for Competitive Strategies*, 2017 (ICTCS 17). [Paper](https://drive.google.com/file/d/0ByGq26nUw_7FY1JRUGlPOWQ1dWtMcHdJcm1STFZqYVpFRk84/edit){:target="_blank"}&emsp;
+TBD
 
 ***
 
