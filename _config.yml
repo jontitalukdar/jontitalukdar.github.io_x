@@ -1,7 +1,7 @@
 # Site
 title:              Jonti Talukdar
-bio:                'Jonti is a fun loving engineer who seeks pleasure in exploring new places and meeting new people. He also loves referring to himself in the third person. A final year student of Electronics and Communication Engineering at Nirma University (India), he is currently pursuing active research in the field of Computational Intelligence Paradigms and Soft Computing techniques in Embedded System Design.'
-description:        "Hi, welcome to my portfolio. As a student majoring in Electronics and Communnication engineering, my research interests lie at the intersection of hardware and software design, including the multi-disciplinary fileds like Intelligent Systems Design, Computer Architecture, Computer Vision, Deep Neural Networks and VLSI Design."
+bio:                'Jonti is a 2nd year Master's candidate at the Department of Electrical and Computer Engineering at Duke University (Durham, NC) specializing in Hardware Engineering with a focus on VLSI Testing, Design and Verification. He is currently pursuing active research in the field of VLSI Testing, Functional Fault Modeling as well as working on developing analytical models for SET (transient) propagation in combinational logic.'
+description:        "Hi, welcome to my portfolio. As a student majoring in Computer Engineering engineering, my research interests lie at the intersection of VLSI (Back End) and Systems design (Front End), including the multi-disciplinary fileds in both hardware and software domains like VLSI Design, DfT, Hardware Verification, RTL Integration, Deep Neural Networks and scripting automation."
 reading_time:       true
 words_per_minute:   125
 logo:               'assets/jonti_duke_final.jpg'
@@ -30,14 +30,14 @@ disqus_shortname:   jontitalukdar
 
 # Social
 # if you don't have any of social below, comment the line.
-google:
-  plus:            109063222364059782087
+#google:
+  #plus:            109063222364059782087
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:               jonti.talukdar.05@gmail.com
+email:               jonti.talukdar@duke.edu
 #twitter:            username
 facebook:           profile.php?id=100006255737607
 github:             jontitalukdar
