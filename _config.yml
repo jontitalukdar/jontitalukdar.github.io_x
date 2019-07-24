@@ -4,7 +4,7 @@ bio:                'Jonti is a fun loving engineer who seeks pleasure in explor
 description:        "Hi, welcome to my portfolio. As a student majoring in Electronics and Communnication engineering, my research interests lie at the intersection of hardware and software design, including the multi-disciplinary fileds like Intelligent Systems Design, Computer Architecture, Computer Vision, Deep Neural Networks and VLSI Design."
 reading_time:       true
 words_per_minute:   125
-logo:               'assets/_MG_7429.jpg'
+logo:               'assets/jonti_duke.PNG'
 background:         'assets/img/cherry_blossom.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
