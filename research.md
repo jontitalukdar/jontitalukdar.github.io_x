@@ -53,21 +53,6 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 
 [**Springer ICTIS 18**](https://drive.google.com/file/d/0ByGq26nUw_7FY1JRUGlPOWQ1dWtMcHdJcm1STFZqYVpFRk84/edit){:target="_blank"}&emsp; 
 
-## 2. Design of High Speed Radix 4 SRT Divider 
-*In collaboration with RISE Lab, Dept. of CSE, IIT Madras*
-* Design and development of Fuzzy Logic based intelligent radix 4 SRT division algorithm in IBM Bluespec. Improved the earlier SRT radix 4 method by making it more parallel and using fuzzy based method for quotient/remainder selection
-* Testing and benchmarking of algorithm done on Xilinx UltraScale device with Vivado support.
-
-[**IEEE IcSoftComp 17**](assets/srt.pdf){:target="_blank"}&emsp;
-
-## 3. SNR Estimation based Smart-Sensing Algorithm for Cognitive Radio
-*Minor Research Project, Nirma University; under Prof. Khyati Vachhani*
-* Developed an SNR based adaptive threshold algorithm for energy detection and spectrum sensing, thus identifying channel utilization.
-* Used adaptive algorithm to monitor primary user activity in radio environment uing USRP B200 and GNU Radio.
-* Allocated remaining bandwidth to secondary users, enhancing channel utilization.
-
-[**IEEE WiSPNET 17**](https://arxiv.org/ftp/arxiv/papers/1708/1708.06802.pdf){:target="_blank"}&emsp;
-
 ***
 ## Other Projects
 ***
@@ -82,38 +67,23 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 * Projected data from light, temperature and motion sensors to ‘ThingSpeak’ cloud API using the ESP8266 module.
 * Used the ESP8266 as a web server, controlling its GPIOs through the internet by another device connected to the same network. 
 
-### 4. Design and Simulation of Autonomous Indoor Navigating UAV
-*Minor Research Project, Nirma University UAV Team; under Dr. Dilip Kothari*
-* Proposed an autonomous UAV system which performs simultaneous localization and mapping (SLAM).
-* Simulations of the model and SLAM algorithm performed in ‘gazebo’ and ROS Indigo.
-* Proof of concept implemented and successfully tested using a terrestrial ground robot with on board 3600 RPLidar.
-
 ### 3. Obstacle Detector using Analog Ultrasonic Sensor
 *Course Project- Integrated Circuits & Applications*
 * Designed an obstacle detector mechanism using digital ultrasonic sensor and 555 Timer operating as an astable multivibrator.
 * 555 timer used as a trigger circuit to drive the HC-SR04 ultrasonic sensor. Combinational logic used to light LED if object detected in close proximity, with range adjustment circuit.
 
-### 5. Design of 8 bit Dual Port SRAM in Verilog HDL
+### 4. Design of 8 bit Dual Port SRAM in Verilog HDL
 *Course Project- Digital System Design.*
 * Designed and synthesized the RTL level model for an 8 bit dual port SRAM in Verilog HDL.
 * Deployed and tested the SRAM on reconfigurable architectures like the Altera Cyclone II FPGA.
 
-### 6. Implementation of Audio Steganography on FPGA
-*Term Project (Sem-7); Ongoing*
-* Designed and Deployed Simulink based model for LSB method of audio steganography through Xilinx System Generator, hiding text messages in audio bit stream
-* Prepared ADC and DAC sampling systems using Verilog HDL for audio conversion and sampling.
-
-### 7. CMOS Layout design in Mirowind
+### 4. CMOS Layout design in Mirowind
 *Course Project- Digital Integrated Circuits*
 * Designed and optimized gate level models and transistor level schematic of Boolean functions in Microwind.
 * Drew CMOS layout of the circuit using stick models, performed DRC and  simulated various combination of inputs to measure
 rise time, fall time and threshold voltage levels.
 
 ***
-
->After all, to maximize your chances of having a happy ending in this cruel composition of life, you need every possible advantage you can get. 
-
--Jonti Talukdar 
 
 [Home](https://jontitalukdar.github.io/){: .btn} 
 [Publications](https://jontitalukdar.github.io/publications){: .btn} 
