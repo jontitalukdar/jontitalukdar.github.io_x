@@ -77,7 +77,7 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 * Designed and synthesized the RTL level model for an 8 bit dual port SRAM in Verilog HDL.
 * Deployed and tested the SRAM on reconfigurable architectures like the Altera Cyclone II FPGA.
 
-### 4. CMOS Layout design in Mirowind
+### 5. CMOS Layout design in Mirowind
 *Course Project- Digital Integrated Circuits*
 * Designed and optimized gate level models and transistor level schematic of Boolean functions in Microwind.
 * Drew CMOS layout of the circuit using stick models, performed DRC and  simulated various combination of inputs to measure
