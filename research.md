@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research"
+title: "Under Graduate Research Projects"
 feature: https://jontitalukdar.github.io/assets/img/res.jpg
 ---
 ## Computer Vision, Machine Learning and Deep Learning
