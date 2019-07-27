@@ -3,11 +3,10 @@ layout: page
 title: "Under Graduate Research Projects"
 feature: https://jontitalukdar.github.io/assets/img/res.jpg
 ---
-## Computer Vision, Machine Learning and Deep Learning
+## Professional Experience
 ***
-## 1. Transfer Learning for Object Detection using state of the art Deep Convolutional Neural Networks
-*Research Internship, High Performance Computing Lab, IIT Gandhinagar; under Dr. Ravi Hegde*
-* Trained Deep Convolutional Neural Networks on synthetic images for the task of object detection using Nvidia GPUs like Titan X and GTX 1070.
+## 1. Logic Technology Development (Q&R) Intern, Intel Corporation
+*Radiation Effects Team (CQN), Technology Manufacturing Group, Hillsboro, OR*
 * Wrote task scheduling algorithms for GPU memory optimization and parallel procesing.
 * Developed artificially rendered synthetic datasets using Blender, achieving high photorealism for transfer learning. Also tested different data augmentation techniques for effective transfer learning.
 * Performed hyperparameter optimization of state of the art deep convolutional neural networks like faster RCNN, SSD, R-FCN, GoogLeNet, DetectNet, etc. using Caffe and TensorFlow frameworks and increased overall mAP by more than 35%.
