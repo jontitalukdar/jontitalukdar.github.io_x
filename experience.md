@@ -5,7 +5,7 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 ---
 ## Professional Experience
 ***
-## 1. Logic Technology Development (Q&R) Intern, Intel Corporation
+### 1. Logic Technology Development (Q&R) Intern, Intel Corporation
 *Radiation Effects Team (CQN), Technology Manufacturing Group, Hillsboro, OR*
 * Wrote task scheduling algorithms for GPU memory optimization and parallel procesing.
 * Developed artificially rendered synthetic datasets using Blender, achieving high photorealism for transfer learning. Also tested different data augmentation techniques for effective transfer learning.
