@@ -26,4 +26,4 @@ feature: https://jontitalukdar.github.io/assets/img/res.jpg
 ***
 
 [Home](https://jontitalukdar.github.io/){: .btn} 
-[Publications](https://jontitalukdar.github.io/publications){: .btn} 
+<!--[Publications](https://jontitalukdar.github.io/publications){: .btn} -->
